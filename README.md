@@ -19,7 +19,7 @@ ethan
 
 ## About
 
-I started programming because I liked reselling things and I wanted to create my own products. That eventually turned me into someone who builds my own tools, bots,and websites for fun.
+I started programming because I liked reselling digital items and I wanted to create my own products. That eventually turned me into someone who builds my own tools, bots,and websites for fun.
 
 Most of my projects involve automation and hosting. Recently, I've been spending more time vps, rdp, and web hosting. I'm great with using ai and creating what I want.
 
