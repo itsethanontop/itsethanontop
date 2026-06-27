@@ -1,7 +1,5 @@
-# ethan
-
 <p align="center">
-  <code>student</code> • <code>freelancer</code> • <code>backend developer</code>
+# ethan
 </p>
 
 <p align="center">
