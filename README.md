@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/DISCORD-itsethanontop-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:unknown">
-    <img src="https://img.shields.io/badge/EMAIL-PROG556677%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-unknown-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
